@@ -1,0 +1,12 @@
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.exe.config
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.exe
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Debug\TimbradoNomina.pdb
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Debug\CommonFunctions.dll
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Debug\QRCoder.dll
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Debug\UnityEngine.dll
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Debug\CommonFunctions.pdb
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.exe
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\obj\Debug\TimbradoNomina.pdb
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Debug\Newtonsoft.Json.dll
+c:\users\hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Debug\Newtonsoft.Json.xml

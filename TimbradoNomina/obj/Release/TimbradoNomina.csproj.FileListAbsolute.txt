@@ -1,0 +1,29 @@
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Release\Logs\LogFile.txt
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Release\Requerido\XmlToLayout.xslt
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Release\Requerido\CODISPERSA.pem
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Release\Requerido\MONTE.pem
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Release\Requerido\NominaSchema.xsd
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Release\Requerido\PISA.pem
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Release\Requerido\SERVCONTSCA.pem
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Release\Requerido\SPA.pem
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Release\Requerido\TENENCIA.pem
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Release\Requerido\TRASINMEX.pem
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Release\Requerido\VELBUS.pem
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Release\TimbradoNomina.exe.config
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Release\TimbradoNomina.exe
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Release\TimbradoNomina.XmlSerializers.dll
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Release\TimbradoNomina.pdb
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Release\CommonFunctions.dll
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Release\Newtonsoft.Json.dll
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Release\QRCoder.dll
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Release\UnityEngine.dll
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Release\CommonFunctions.pdb
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\bin\Release\Newtonsoft.Json.xml
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\obj\Release\TimbradoNomina.csprojResolveAssemblyReference.cache
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\obj\Release\TimbradoNomina.exe
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\obj\Release\TimbradoNomina.pdb
+C:\Users\Hp\documents\visual studio 2013\Projects\TimbradoNomina\TimbradoNomina\obj\Release\TimbradoNomina.XmlSerializers.dll
+C:\Bis\Timbrado\net\TimbradoNomina\TimbradoNomina\bin\Release\TimbradoNomina.exe.config
+C:\Bis\Timbrado\net\TimbradoNomina\TimbradoNomina\obj\Release\TimbradoNomina.exe
+C:\Bis\Timbrado\net\TimbradoNomina\TimbradoNomina\obj\Release\TimbradoNomina.pdb
+C:\Bis\Timbrado\net\TimbradoNomina\TimbradoNomina\obj\Release\TimbradoNomina.XmlSerializers.dll
